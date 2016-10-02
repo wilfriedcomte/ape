@@ -1,7 +1,7 @@
 modalID: 1
 title: Project 1
 date: 2016-10-01
-img: 1.jpg
+img: /static/img/portfolio/1.jpg
 client: Start Bootstrap
 clientLink: "#"
 category: Web Development
