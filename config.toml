@@ -28,13 +28,15 @@ theme = "hugo-creative-theme"
 
 	# Navigation
 	[params.navigation]
-		brand = "Hugo Creative Theme"
+		brand = "APE La SOURCE"
 
 		[params.navigation.links]
 			about     = "About"
 			services  = "Services"
 			portfolio = "Portfolio"
-			contact   = "Contact"
+			les_actions = "Les Actions"
+			les_conferences = "Les conferences"
+			contact  = "Contact"
 
 
 	# Hero section
